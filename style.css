@@ -1,0 +1,8 @@
+.image-logo{
+    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
+}
+body{
+    background: linear-gradient(#D3CCE3,#fffde4);
+}
