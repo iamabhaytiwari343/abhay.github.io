@@ -6,3 +6,24 @@
 body{
     background: linear-gradient(#D3CCE3,#fffde4);
 }
+.btn{
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
+.btn:hover{
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+}
+.heading{
+    font-weight: bold;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    font-size: 36px;
+}
