@@ -27,3 +27,16 @@ body{
     text-align: center;
     font-size: 36px;
 }
+.cards-contact{
+    box-sizing: border-box;
+    height: 25vh;
+    width: 25vw;
+}
+.contact-text{
+    align-items: center;
+    align-content: center;
+    text-align: center;  
+}
+.contact{
+    display: flex;
+}
